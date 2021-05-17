@@ -1,0 +1,10 @@
+.gridList {
+    display: flex;
+    overflow: hidden;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.searchBox {
+    margin: 20px;
+}
